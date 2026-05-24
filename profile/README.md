@@ -1,4 +1,4 @@
-# Aperio
+# Hale
 
 A design language.
 
@@ -10,19 +10,19 @@ body of research.
 
 | Repo | What it is |
 |---|---|
-| [aperio](https://github.com/aperio-lang/aperio) | The language — compiler, runtime, spec |
-| [pond](https://github.com/aperio-lang/pond) | Shared libraries and worked examples |
-| [bench](https://github.com/aperio-lang/bench) | Benchmarks |
-| [papers](https://github.com/aperio-lang/papers) | Research papers on capacity-allocation bounds in coordinated systems |
+| [hale](https://github.com/hale-lang/hale) | The language — compiler, runtime, spec |
+| [pond](https://github.com/hale-lang/pond) | Shared libraries and worked examples |
+| [bench](https://github.com/hale-lang/bench) | Benchmarks |
+| [papers](https://github.com/hale-lang/papers) | Research papers on capacity-allocation bounds in coordinated systems |
 
 ## Start here
 
 Depending on what brings you in:
 
-- **See what an Aperio program looks like** → [pond](https://github.com/aperio-lang/pond) (worked examples live alongside the libraries)
-- **Write one** → [aperio](https://github.com/aperio-lang/aperio) (spec, compiler, runtime)
-- **Build on top of it** → [pond](https://github.com/aperio-lang/pond)
-- **Read the research** → [papers](https://github.com/aperio-lang/papers)
+- **See what a Hale program looks like** → [pond](https://github.com/hale-lang/pond) (worked examples live alongside the libraries)
+- **Write one** → [hale](https://github.com/hale-lang/hale) (spec, compiler, runtime)
+- **Build on top of it** → [pond](https://github.com/hale-lang/pond)
+- **Read the research** → [papers](https://github.com/hale-lang/papers)
 
 ## Status
 
@@ -32,7 +32,3 @@ if you depend on anything.
 ## License
 
 Apache 2.0 across the org unless a repo says otherwise.
-
----
-
-Also building [brained.dev](https://brained.dev).
