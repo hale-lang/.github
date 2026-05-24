@@ -12,6 +12,7 @@ body of research.
 |---|---|
 | [hale](https://github.com/hale-lang/hale) | The language — compiler, runtime, spec |
 | [pond](https://github.com/hale-lang/pond) | Shared libraries and worked examples |
+| [iris](https://github.com/hale-lang/iris) | Workbench for designing and visualizing locus structures |
 | [bench](https://github.com/hale-lang/bench) | Benchmarks |
 | [papers](https://github.com/hale-lang/papers) | Research papers on capacity-allocation bounds in coordinated systems |
 
@@ -32,3 +33,7 @@ if you depend on anything.
 ## License
 
 Apache 2.0 across the org unless a repo says otherwise.
+
+---
+
+Also building [brained.dev](https://brained.dev).
