@@ -12,7 +12,7 @@ body of research.
 |---|---|
 | [hale](https://github.com/hale-lang/hale) | The language — compiler, runtime, spec |
 | [pond](https://github.com/hale-lang/pond) | Shared libraries and worked examples |
-| [iris](https://github.com/hale-lang/iris) | Workbench for designing and visualizing locus structures |
+| [iris](https://github.com/hale-lang/iris) | Realtime observer for running Hale systems — live locus, message-flow, and supervision visualization |
 | [bench](https://github.com/hale-lang/bench) | Benchmarks |
 | [papers](https://github.com/hale-lang/papers) | Research papers on capacity-allocation bounds in coordinated systems |
 
