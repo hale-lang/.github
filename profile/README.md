@@ -42,7 +42,6 @@ borrow checker, and its concurrency has no locks and no data races.
 | [pond](https://github.com/hale-lang/pond) | Contributed libraries: HTTP, SQLite, WebSocket, routing, LLM agents, metrics and terminal UI |
 | [tree-sitter-hale](https://github.com/hale-lang/tree-sitter-hale) | The Tree-sitter grammar, for editors and highlighting |
 | [hlhub](https://github.com/hale-lang/hlhub) | Hale highlighting on github.com, a browser extension whose core is written in Hale |
-| [iris](https://github.com/hale-lang/iris) | A live observer for running Hale systems: structure, message flow and transport behavior |
 | [bench](https://github.com/hale-lang/bench) | Benchmarks, with a cross-language comparison and instructions to reproduce it |
 | [papers](https://github.com/hale-lang/papers) | Two papers on capacity-allocation bounds in coordinated systems |
 
