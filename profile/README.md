@@ -54,6 +54,3 @@ releases, so pin a version if you depend on anything.
 
 Apache 2.0 across the organization unless a repository says otherwise.
 
----
-
-Also building [brained.dev](https://brained.dev).
